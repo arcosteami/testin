@@ -8,3 +8,12 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
 #EXTINF:-1 tvg-id="ab3" tvg-name="AB3" group-title="Belgique",AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+
+#EXTINF:-1 tvg-id="typik" tvg-name="typik" group-title="Belgique",typik
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/0cb7453d/e9c3fa20.isml/.m3u8
+
+#EXTINF:-1 tvg-id="matiere grise" tvg-name="matiere grise" group-title="Belgique",matiere grise
+https://c9851ec-az-westeurope-fsly.cdn.redbee.live/VC01/fast001_6BA97Bb.isml/.m3u8
+
+#EXTINF:-1 tvg-id="cactus" tvg-name="cactus" group-title="Belgique",cactus
+https://c9851ec-az-westeurope-fsly.cdn.redbee.live/VC01/testchan2_6BA97Bb.isml/.m3u8
