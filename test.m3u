@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="test1" tvg-name="Caraibes" group-title="Demo",Test Channel
+#EXTINF:-1 tvg-id="caraibes" tvg-name="Caraibes" group-title="Demo",Caraibes
 http://hls.tmacaraibes.com/live/index.m3u8
 
-#EXTINF:-1 group-title="Belgique",La Une
+#EXTINF:-1 tvg-id="laune" tvg-name="La Une" group-title="Belgique",La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
-#EXTINF:-1 group-title="Belgique",AB3
+#EXTINF:-1 tvg-id="ab3" tvg-name="AB3" group-title="Belgique",AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
