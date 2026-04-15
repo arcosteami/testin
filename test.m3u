@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Antenne" tvg-name="Antenne Reunion" group-title="Reunion",Antenne
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
 
 #EXTINF:-1 tvg-id="laune" tvg-name="La Une" group-title="Belgique",La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
