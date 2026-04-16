@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LA UNE" tvg-name="LA UNE" group-title="BELGIQUE",LA UNE (BE)
-#EXTINF:-1,LA UNE (BE)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1,LN24  (BE)
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
