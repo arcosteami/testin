@@ -1,13 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="LA UNE" tvg-name="LA UNE" group-title="BELGIQUE",LA UNE (BE)
 #EXTINF:-1,LA UNE (BE)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1,LN24  (BE)
 https://live-ln24.digiteka.com/1911668011/playlist.m3u8
 #EXTINF:-1,BX1 (Bruxelles BE)
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Antenne" tvg-name="Antenne Reunion" group-title="Reunion",Antenne
+#EXTINF:-1 tvg-id="Antenne" tvg-name="Antenne Reunion" group-title="REUNION",Antenne
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
-#EXTINF:-1,TF1
+#EXTINF:-1 tvg-id="TF1" tvg-name="TF1" group-title="FRANCE",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1,France 2
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france2.m3u8
