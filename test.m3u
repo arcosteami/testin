@@ -1,11 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1,LA UNE (BE)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1,LN24  (BE)
+https://live-ln24.digiteka.com/1911668011/playlist.m3u8
+#EXTINF:-1,BX1 (Bruxelles BE)
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Antenne" tvg-name="Antenne Reunion" group-title="Reunion",Antenne
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
-
-#EXTINF:-1 tvg-id="laune" tvg-name="La Une" group-title="Belgique",La Une
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-
 #EXTINF:-1,TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1,France 2
@@ -84,12 +85,7 @@ https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg01821-amg01821c24-samsung-fr-5157.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-voyagesandsaveurs-samsungfr/playlist.m3u8
 #EXTINF:-1,Voyages+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
-#EXTINF:-1,LA UNE (BE)
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:-1,LN24  (BE)
-https://live-ln24.digiteka.com/1911668011/playlist.m3u8
-#EXTINF:-1,BX1 (Bruxelles BE)
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+
 #EXTINF:-1,Noovo Cinéma  (CA)
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 #EXTINF:-1,Ici RDI  (CA)
